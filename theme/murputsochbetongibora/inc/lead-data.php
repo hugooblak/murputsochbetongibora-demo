@@ -5,6 +5,7 @@
  */
 return array(
 	'foretag'        => 'Mur Puts och Betong I Borås AB',
+	'bransch'        => 'Entreprenör',
 	'telefon'        => '072-377 78 08',
 	'telefon_tel'    => '+46723777808',
 	'ort'            => 'Borås',
